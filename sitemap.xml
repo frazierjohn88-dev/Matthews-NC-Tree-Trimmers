@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Service Pages -->
+  
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/services/stump-grinding-matthews-nc</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/services/tree-trimming-matthews-nc</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/services/tree-removal-matthews-nc</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/services/emergency-tree-service-nc</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/services/storm-damage-tree-removal</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/services/tree-cabling-and-bracing-in-matthews</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Location Pages -->
+  
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/matthews-28105</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/mint-hill-28227</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/indian-trail-28079</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/stallings-28104</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/weddington-28104</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/pineville-28134</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/monroe-28110</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/ballantyne-28277</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/southpark-28210</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/areas-we-serve/waxhaw-28173</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Blog Pages -->
+  
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/blog/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/blog/why-tree-trimming-matthews-nc-is-essential-for-your-matthews-home</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/blog/how-to-safely-remove-trees-in-matthews-diy-vs-professional</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/blog/emergency-tree-service-in-matthews-nc-quick-response-tips</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Matthews-NC-Tree-Trimmers.github.io/blog/storm-damage-tree-removal-in-matthews-what-you-need-to-know</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Calculator Pages -->
+  
+  
+</urlset>
