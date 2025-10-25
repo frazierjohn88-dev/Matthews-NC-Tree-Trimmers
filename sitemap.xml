@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Root -->
+  <url>
+    <loc>https://frazierjohn88-dev.github.io/Matthews-NC-Tree-Trimmers/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Areas We Serve -->
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/ballantyne-28277.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/indian-trail-28079.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/matthews-28105.html</loc><priority>0.9</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/mint-hill-28227.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/monroe-28110.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/pineville-28134.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/southpark-28210.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/stallings-28104.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/waxhaw-28173.html</loc><priority>0.8</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/areas-we-serve/weddington-28104.html</loc><priority>0.8</priority></url>
+
+  <!-- Services -->
+  <url><loc>https://frazierjohn88-dev.github.io/services/emergency-tree-service-nc.html</loc><priority>0.9</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/services/storm-damage-tree-removal.html</loc><priority>0.9</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/services/stump-grinding-matthews-nc.html</loc><priority>0.9</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/services/tree-cabling-and-bracing-in-matthews.html</loc><priority>0.9</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/services/tree-removal-matthews-nc.html</loc><priority>0.9</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/services/tree-trimming-matthews-nc.html</loc><priority>0.9</priority></url>
+
+  <!-- Blog -->
+  <url><loc>https://frazierjohn88-dev.github.io/blog/index.html</loc><priority>0.7</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/blog/emergency-tree-service-in-matthews-nc-quick-response-tips.html</loc><priority>0.7</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/blog/how-to-safely-remove-trees-in-matthews-diy-vs-professional.html</loc><priority>0.7</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/blog/storm-damage-tree-removal-in-matthews-what-you-need-to-know.html</loc><priority>0.7</priority></url>
+  <url><loc>https://frazierjohn88-dev.github.io/blog/why-tree-trimming-matthews-nc-is-essential-for-your-matthews-home.html</loc><priority>0.7</priority></url>
+
+</urlset>
